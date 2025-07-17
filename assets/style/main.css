@@ -6,7 +6,7 @@
     animation: -amp-start 8s steps(1, end) 0s 1 normal both;
     
     /* Menambahkan background gambar dari GitHub */
-    background-image: url('https://raw.githubusercontent.com/urbanovaclothes1/URBANOVACLOTHES/main/BACKURBAN.png');
+    background-image: url('https://github.com/urbanovaclothes1/URBANOVACLOTHES/blob/main/BACKURBAN.png?raw=true');
     background-size: cover; /* Agar gambar menutupi seluruh halaman */
     background-position: center; /* Memposisikan gambar di tengah */
     background-attachment: fixed; /* Membuat gambar tetap saat di-scroll */
