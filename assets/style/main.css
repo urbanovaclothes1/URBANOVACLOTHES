@@ -6,7 +6,7 @@
     animation: -amp-start 8s steps(1, end) 0s 1 normal both;
     
     /* Add a background image from GitHub */
-    background-image: url('https://raw.githubusercontent.com/username/repository-name/branch-name/assets/images/BACK URBAN.png');
+    background-image: url('https://github.com/urbanovaclothes1/URBANOVACLOTHES/blob/main/BACKURBAN.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
